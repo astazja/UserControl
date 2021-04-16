@@ -1,7 +1,7 @@
 # UserControl
 The program is supported by the Data Access Object
 
-##Features
+## Features
 * Display all users in a database,
 * Delete a user from database,
 * Create a new user,
